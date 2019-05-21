@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Huang on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/nicole-huang/</link>
+    <description>Recent content in Nicole Huang on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/nicole-huang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mining Personal Health Index from Annual Geriatric Medical Examinations</title>
+      <link>https://csenw.github.io/publication/mining-chen-2014/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/mining-chen-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

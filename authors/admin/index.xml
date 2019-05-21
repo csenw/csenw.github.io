@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/admin/</link>
+    <description>Recent content on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://csenw.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://csenw.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/authors/admin/</guid>
+      <description>Currently, I am a lecturer in School of Information Technology and Electrical Engineering (ITEE) in the University of Queensland (UQ). I am also an adjunct senior research fellow in Institute for Integrated and Intelligent Systems (IIIS) in Griffith University (GU). Previously, I worked as a lecture of computer science in School of Information and Communication Technology (ICT) in GU from July 2016 to January 2019. I received my PhD degree in UQ in 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

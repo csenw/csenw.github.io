@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yazhou Hao on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/yazhou-hao/</link>
+    <description>Recent content in Yazhou Hao on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/yazhou-hao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Chinese Sentiment Analysis via Segmentation-Based Representation Using Parallel CNN</title>
+      <link>https://csenw.github.io/publication/improving-hao-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/improving-hao-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

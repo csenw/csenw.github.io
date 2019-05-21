@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Yang on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/zhi-yang/</link>
+    <description>Recent content in Zhi Yang on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/zhi-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unobtrusive posture recognition via online learning of multi-dimensional RFID received signal strength</title>
+      <link>https://csenw.github.io/publication/unobtrusive-yao-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unobtrusive-yao-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaixuan Chen on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/kaixuan-chen/</link>
+    <description>Recent content in Kaixuan Chen on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/kaixuan-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Semi-Supervised Learning for People-Centric Sensing</title>
+      <link>https://csenw.github.io/publication/distributionally-chen-2018/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/distributionally-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Sense of Spatio-Temporal Preserving Representations for EEG-Based Human Intention Recognition</title>
+      <link>https://csenw.github.io/publication/making-zhang-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/making-zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy integral optimization with deep Q-network for EEG-based intention recognition</title>
+      <link>https://csenw.github.io/publication/fuzzy-zhang-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/fuzzy-zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ready for Use</title>
+      <link>https://csenw.github.io/publication/ready-zhang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/ready-zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

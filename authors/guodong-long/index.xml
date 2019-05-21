@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guodong Long on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/guodong-long/</link>
+    <description>Recent content in Guodong Long on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/guodong-long/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Semi-Supervised Learning for People-Centric Sensing</title>
+      <link>https://csenw.github.io/publication/distributionally-chen-2018/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/distributionally-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Illness Severity Prediction via Multi-task RNNs for Intensive Care Unit</title>
+      <link>https://csenw.github.io/publication/dynamic-chen-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/dynamic-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuRec: On nonlinear transformation for personalized ranking</title>
+      <link>https://csenw.github.io/publication/neu-rec-zhang-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/neu-rec-zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modality sensor data classification with selective attention</title>
+      <link>https://csenw.github.io/publication/multimodality-zhang-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multimodality-zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforced self-attention network: A hybrid of hard and soft attention for sequence modeling</title>
+      <link>https://csenw.github.io/publication/reinforced-shen-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/reinforced-shen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace Ratio Optimization With Feature Correlation Mining for Multiclass Discriminant Analysis</title>
+      <link>https://csenw.github.io/publication/trace-forough-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/trace-forough-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multiple Diagnosis Codes for ICU Patients with Local Disease Correlation Mining</title>
+      <link>https://csenw.github.io/publication/learning-wang-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis Code Assignment Using Sparsity-Based Disease Correlation Embedding</title>
+      <link>https://csenw.github.io/publication/diagnosis-wang-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/diagnosis-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact representation for large-scale unconstrained video analysis</title>
+      <link>https://csenw.github.io/publication/compact-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/compact-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

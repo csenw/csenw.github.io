@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojun Chang on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/xiaojun-chang/</link>
+    <description>Recent content in Xiaojun Chang on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/xiaojun-chang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Semi-Supervised Learning for People-Centric Sensing</title>
+      <link>https://csenw.github.io/publication/distributionally-chen-2018/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/distributionally-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Sense of Spatio-Temporal Preserving Representations for EEG-Based Human Intention Recognition</title>
+      <link>https://csenw.github.io/publication/making-zhang-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/making-zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multiple Diagnosis Codes for ICU Patients with Local Disease Correlation Mining</title>
+      <link>https://csenw.github.io/publication/learning-wang-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Correlated Feature Learning by Uncovering Shared Component</title>
+      <link>https://csenw.github.io/publication/multi-view-xue-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multi-view-xue-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task support vector machines for feature selection with shared knowledge discovery</title>
+      <link>https://csenw.github.io/publication/multitask-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multitask-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound rank-$ k $ projections for bilinear analysis</title>
+      <link>https://csenw.github.io/publication/chang-2016-compound/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/chang-2016-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering locally discriminative structure for feature analysis</title>
+      <link>https://csenw.github.io/publication/uncovering-wang-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/uncovering-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised feature analysis with class margin optimization</title>
+      <link>https://csenw.github.io/publication/unsupervised-wang-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unsupervised-wang-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised feature analysis for multimedia annotation by mining label correlation</title>
+      <link>https://csenw.github.io/publication/semi-chang-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/semi-chang-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

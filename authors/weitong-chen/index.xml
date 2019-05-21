@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weitong Chen on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/weitong-chen/</link>
+    <description>Recent content in Weitong Chen on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/weitong-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Illness Severity Prediction via Multi-task RNNs for Intensive Care Unit</title>
+      <link>https://csenw.github.io/publication/dynamic-chen-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/dynamic-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based Motion Intention Recognition via Multi-task RNNs</title>
+      <link>https://csenw.github.io/publication/eeg-chen-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/eeg-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Answering why-not questions on semantic multimedia queries</title>
+      <link>https://csenw.github.io/publication/answering-wang-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/answering-wang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascade and Parallel Convolutional Recurrent Neural Networks on EEG-Based Intention Recognition for Brain Computer Interface</title>
+      <link>https://csenw.github.io/publication/cascade-zhang-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/cascade-zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact representation for large-scale unconstrained video analysis</title>
+      <link>https://csenw.github.io/publication/compact-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/compact-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task support vector machines for feature selection with shared knowledge discovery</title>
+      <link>https://csenw.github.io/publication/multitask-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multitask-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph-based POI Embedding for Location-based Recommendation</title>
+      <link>https://csenw.github.io/publication/learning-xie-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-xie-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Hansen on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/david-hansen/</link>
+    <description>Recent content in David Hansen on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/david-hansen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computing unrestricted synopses under maximum error bound</title>
+      <link>https://csenw.github.io/publication/computing-pang-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/computing-pang-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

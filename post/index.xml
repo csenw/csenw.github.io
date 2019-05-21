@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/post/</link>
+    <description>Recent content in Posts on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 20:55:04 +1000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recruitment: One Full PhD Scholarship is AVAILABLE!</title>
+      <link>https://csenw.github.io/post/phd-recruitment/</link>
+      <pubDate>Wed, 15 May 2019 20:55:04 +1000</pubDate>
+      
+      <guid>https://csenw.github.io/post/phd-recruitment/</guid>
+      <description>One full scholarship is available under Sen&amp;rsquo;s supervision in areas of data mining and machine learning. The PhD student will be focusing on the deep learning with the applications to healthcare. Applications can be sent in by email, and are accepted until the position is filled. Each application must include a detailed transcript (of the applicant&amp;rsquo;s undergraduate study) and a CV that lists the applicant&amp;rsquo;s awards (since high school) and publications.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers: ADMA19 @ Dalian</title>
+      <link>https://csenw.github.io/post/adma/</link>
+      <pubDate>Thu, 25 Apr 2019 21:05:06 +1000</pubDate>
+      
+      <guid>https://csenw.github.io/post/adma/</guid>
+      <description>The 15th International Conference on Advanced Data Mining and Applications On 21-23 November 2019 in Dalian, China (http://adma2019.neusoft.edu.cn), is calling for participations .</description>
+    </item>
+    
+    <item>
+      <title>ICDM18 Paper Accepted</title>
+      <link>https://csenw.github.io/post/icdm18-paper-accept/</link>
+      <pubDate>Sun, 13 Jan 2019 00:20:02 +1000</pubDate>
+      
+      <guid>https://csenw.github.io/post/icdm18-paper-accept/</guid>
+      <description>Our paper is accepted by ICDM 18. Well Done, Tony!</description>
+    </item>
+    
+    <item>
+      <title>DASFAA 2019 Call for Tutorial</title>
+      <link>https://csenw.github.io/post/dasfaa-tutorial/</link>
+      <pubDate>Sat, 12 Jan 2019 23:15:03 +1000</pubDate>
+      
+      <guid>https://csenw.github.io/post/dasfaa-tutorial/</guid>
+      <description>DASFAA 2019 will be held in Chiang Mai Thailand between 22 April and 25 April 2019. Information of call for tutorials is available at: Call for Tutorial Proposals in DASFAA 2019.</description>
+    </item>
+    
+  </channel>
+</rss>

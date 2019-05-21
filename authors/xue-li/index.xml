@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue Li on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/xue-li/</link>
+    <description>Recent content in Xue Li on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/xue-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Illness Severity Prediction via Multi-task RNNs for Intensive Care Unit</title>
+      <link>https://csenw.github.io/publication/dynamic-chen-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/dynamic-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiview learning framework with a linear computational cost</title>
+      <link>https://csenw.github.io/publication/multiview-xue-tcyb-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multiview-xue-tcyb-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based Motion Intention Recognition via Multi-task RNNs</title>
+      <link>https://csenw.github.io/publication/eeg-chen-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/eeg-chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative text categorization via exploiting sparse coefficients</title>
+      <link>https://csenw.github.io/publication/collaborative-yao-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/collaborative-yao-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Answering why-not questions on semantic multimedia queries</title>
+      <link>https://csenw.github.io/publication/answering-wang-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/answering-wang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressive Representation for Device-Free Activity Recognition with Passive RFID Signal Strength</title>
+      <link>https://csenw.github.io/publication/compressive-yao-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/compressive-yao-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDD graph: Bridging electronic medical records and biomedical knowledge graphs via entity linking</title>
+      <link>https://csenw.github.io/publication/pdd-wang-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/pdd-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multiple Diagnosis Codes for ICU Patients with Local Disease Correlation Mining</title>
+      <link>https://csenw.github.io/publication/learning-wang-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis Code Assignment Using Sparsity-Based Disease Correlation Embedding</title>
+      <link>https://csenw.github.io/publication/diagnosis-wang-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/diagnosis-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-label classification via learning a unified object-label graph with sparse representation</title>
+      <link>https://csenw.github.io/publication/multilabel-yao-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multilabel-yao-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact representation for large-scale unconstrained video analysis</title>
+      <link>https://csenw.github.io/publication/compact-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/compact-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task support vector machines for feature selection with shared knowledge discovery</title>
+      <link>https://csenw.github.io/publication/multitask-wang-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multitask-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification based on compressive multivariate time series</title>
+      <link>https://csenw.github.io/publication/classification-utomo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/classification-utomo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom: Online activity recognition via dictionary-based sparse representation of RFID sensing data</title>
+      <link>https://csenw.github.io/publication/activity-yao-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/activity-yao-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from less for better: semi-supervised activity recognition via shared structure discovery</title>
+      <link>https://csenw.github.io/publication/learning-yao-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-yao-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering locally discriminative structure for feature analysis</title>
+      <link>https://csenw.github.io/publication/uncovering-wang-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/uncovering-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Personal Health Index from Annual Geriatric Medical Examinations</title>
+      <link>https://csenw.github.io/publication/mining-chen-2014/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/mining-chen-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom: Online activity recognition via dictionary-based sparse representation of RFID sensing data</title>
+      <link>https://csenw.github.io/publication/activity-yao-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/activity-yao-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unobtrusive posture recognition via online learning of multi-dimensional RFID received signal strength</title>
+      <link>https://csenw.github.io/publication/unobtrusive-yao-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unobtrusive-yao-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised feature analysis with class margin optimization</title>
+      <link>https://csenw.github.io/publication/unsupervised-wang-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unsupervised-wang-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Streaming Skeleton -- A New Feature for Online Human Gesture Recognition</title>
+      <link>https://csenw.github.io/publication/structured-zhao-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/structured-zhao-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multiple feature analysis for action recognition</title>
+      <link>https://csenw.github.io/publication/semi-wang-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/semi-wang-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised feature analysis for multimedia annotation by mining label correlation</title>
+      <link>https://csenw.github.io/publication/semi-chang-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/semi-chang-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human action recognition based on semi-supervised discriminant analysis with global constraint</title>
+      <link>https://csenw.github.io/publication/human-zhao-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/human-zhao-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall detection in multi-camera surveillance videos</title>
+      <link>https://csenw.github.io/publication/fall-wang-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/fall-wang-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the prediction of re-tweeting activities in social networks - A report on WISE 2012 challenge</title>
+      <link>https://csenw.github.io/publication/prediction-unankard-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/prediction-unankard-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action recognition by exploring data distribution and feature correlation</title>
+      <link>https://csenw.github.io/publication/action-sen-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/action-sen-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

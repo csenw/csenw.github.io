@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Yang on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/yi-yang/</link>
+    <description>Recent content in Yi Yang on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/yi-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compound rank-$ k $ projections for bilinear analysis</title>
+      <link>https://csenw.github.io/publication/chang-2016-compound/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/chang-2016-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multiple feature analysis for action recognition</title>
+      <link>https://csenw.github.io/publication/semi-wang-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/semi-wang-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall detection in multi-camera surveillance videos</title>
+      <link>https://csenw.github.io/publication/fall-wang-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/fall-wang-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action recognition by exploring data distribution and feature correlation</title>
+      <link>https://csenw.github.io/publication/action-sen-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/action-sen-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

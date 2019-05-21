@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Jun Chang on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/xiao-jun-chang/</link>
+    <description>Recent content in Xiao Jun Chang on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/xiao-jun-chang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagnosis Code Assignment Using Sparsity-Based Disease Correlation Embedding</title>
+      <link>https://csenw.github.io/publication/diagnosis-wang-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/diagnosis-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

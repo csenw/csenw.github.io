@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feiping Nie on Sen&#39;s Website</title>
+    <link>https://csenw.github.io/authors/feiping-nie/</link>
+    <description>Recent content in Feiping Nie on Sen&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csenw.github.io/authors/feiping-nie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A multiview learning framework with a linear computational cost</title>
+      <link>https://csenw.github.io/publication/multiview-xue-tcyb-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multiview-xue-tcyb-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised 2D dimensionality reduction with adaptive structure learning</title>
+      <link>https://csenw.github.io/publication/unsupervised-zhao-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unsupervised-zhao-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Correlated Feature Learning by Uncovering Shared Component</title>
+      <link>https://csenw.github.io/publication/multi-view-xue-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/multi-view-xue-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound rank-$ k $ projections for bilinear analysis</title>
+      <link>https://csenw.github.io/publication/chang-2016-compound/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/chang-2016-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from less for better: semi-supervised activity recognition via shared structure discovery</title>
+      <link>https://csenw.github.io/publication/learning-yao-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/learning-yao-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering locally discriminative structure for feature analysis</title>
+      <link>https://csenw.github.io/publication/uncovering-wang-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/uncovering-wang-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised feature analysis with class margin optimization</title>
+      <link>https://csenw.github.io/publication/unsupervised-wang-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/unsupervised-wang-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
