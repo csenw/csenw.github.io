@@ -6,10 +6,19 @@
     <description>Recent content in Kaixuan Chen on Sen&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 13:18:31 +0000</lastBuildDate>
     
 	<atom:link href="https://csenw.github.io/authors/kaixuan-chen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph-based Hierarchical Attention Networks for Movement Intention Detection from EEG Signals</title>
+      <link>https://csenw.github.io/publication/graph-zhang-2019/</link>
+      <pubDate>Sat, 16 Nov 2019 13:18:31 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/graph-zhang-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributionally Robust Semi-Supervised Learning for People-Centric Sensing</title>

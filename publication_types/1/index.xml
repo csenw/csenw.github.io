@@ -6,10 +6,28 @@
     <description>Recent content in 1 on Sen&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://csenw.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Two-Dimensional Embedded Image Clustering.</title>
+      <link>https://csenw.github.io/publication/adaptive-li-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/adaptive-li-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Learning for Long-Tail Visual Relation Detection.</title>
+      <link>https://csenw.github.io/publication/oneshot-wang-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://csenw.github.io/publication/oneshot-wang-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attentional Temporal Cues of Brainwaves with Spatial Embedding for Motion Intent Detection.</title>
